@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/visual-memory-game/static/css/main.ebf8f00d.chunk.css",
-    "main.js": "/visual-memory-game/static/js/main.433c033a.chunk.js",
-    "main.js.map": "/visual-memory-game/static/js/main.433c033a.chunk.js.map",
+    "main.js": "/visual-memory-game/static/js/main.094485da.chunk.js",
+    "main.js.map": "/visual-memory-game/static/js/main.094485da.chunk.js.map",
     "runtime-main.js": "/visual-memory-game/static/js/runtime-main.ad065220.js",
     "runtime-main.js.map": "/visual-memory-game/static/js/runtime-main.ad065220.js.map",
     "static/js/2.0858b936.chunk.js": "/visual-memory-game/static/js/2.0858b936.chunk.js",
     "static/js/2.0858b936.chunk.js.map": "/visual-memory-game/static/js/2.0858b936.chunk.js.map",
     "index.html": "/visual-memory-game/index.html",
-    "precache-manifest.8581f88e0f1905d4298b22af3e6be1a7.js": "/visual-memory-game/precache-manifest.8581f88e0f1905d4298b22af3e6be1a7.js",
+    "precache-manifest.84bea4bb2d2ba0781aca5d26ba108b26.js": "/visual-memory-game/precache-manifest.84bea4bb2d2ba0781aca5d26ba108b26.js",
     "service-worker.js": "/visual-memory-game/service-worker.js",
     "static/css/main.ebf8f00d.chunk.css.map": "/visual-memory-game/static/css/main.ebf8f00d.chunk.css.map",
     "static/js/2.0858b936.chunk.js.LICENSE.txt": "/visual-memory-game/static/js/2.0858b936.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.ad065220.js",
     "static/js/2.0858b936.chunk.js",
     "static/css/main.ebf8f00d.chunk.css",
-    "static/js/main.433c033a.chunk.js"
+    "static/js/main.094485da.chunk.js"
   ]
 }
